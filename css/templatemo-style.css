@@ -319,6 +319,11 @@ nav {
   overflow: hidden;
 }
 
+.portfolio-item video {
+  width: 100%;
+  overflow: hidden;
+}
+
 .portfolio-item .thumb {
   position: relative;
 }
